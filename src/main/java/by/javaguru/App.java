@@ -7,5 +7,6 @@ public class App
         System.out.println( "GIT" );
         System.out.println("LEARNING!");
         System.out.println("It is terribly difficult");
+        System.out.println("I'm happy");
     }
 }
