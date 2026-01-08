@@ -6,7 +6,7 @@ public class App
     {
         System.out.println( "GIT DEVELOP" );
         System.out.println("LEARNING!");
-        System.out.println("It is terribly difficult");
+        System.out.println("It is terribly difficult sahfsda");
         System.out.println("I'm happy");
         System.out.println("!!!!!");
     }
